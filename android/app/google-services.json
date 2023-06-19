@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471758570919",
+    "project_id": "petco-e7fc9",
+    "storage_bucket": "petco-e7fc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471758570919:android:13cc7358b750c3f1e56282",
+        "android_client_info": {
+          "package_name": "com.bsu.petco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471758570919-861vm4sqp99b246bs3ojieqpq5hqtb2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyFU0qomgLEgMQRMWFjySsriFjEtvJO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471758570919-861vm4sqp99b246bs3ojieqpq5hqtb2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
